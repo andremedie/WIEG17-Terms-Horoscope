@@ -3,7 +3,7 @@
 class Horoscope {
 	
     public $personnummer;
-	public $horoskop;
+	public $terms;
 
     function __construct($personnummer) {
 
